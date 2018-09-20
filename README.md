@@ -1,1 +1,1 @@
-# CV of Erik-Jan van de Wal in LaTeX
+Erik-Jan van de Wal, CV. LaTeX
